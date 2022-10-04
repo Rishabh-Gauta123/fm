@@ -6,14 +6,14 @@
 #sec-outer{
   
      background-color: white;
-    /* margin: auto; */
-    /* width: 75rem;
-    height: 37rem; */
-    padding: 100px;
+    margin: auto;
+    width: 75rem;
+    height: 37rem;
     border: 1px solid white;
-
-    /* margin: auto;
-    margin-top: 60px; */
+    box-sizing: border-box;
+    /* margin: 100px 250px 100px; */
+    margin: auto;
+    margin-top: 60px;
     border-radius: 5px;
 }
 #sec-internal{
