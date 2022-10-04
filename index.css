@@ -4,15 +4,16 @@
     
 }
 #sec-outer{
-    background-color: white;
+  
+     background-color: white;
     /* margin: auto; */
-    width: 75rem;
-    height: 37rem;
+    /* width: 75rem;
+    height: 37rem; */
+    padding: 100px;
     border: 1px solid white;
-    box-sizing: border-box;
-    /* margin: 100px 250px 100px; */
-    margin: auto;
-    margin-top: 60px;
+
+    /* margin: auto;
+    margin-top: 60px; */
     border-radius: 5px;
 }
 #sec-internal{
