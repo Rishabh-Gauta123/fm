@@ -1,0 +1,79 @@
+
+#bd{
+    background-color: rgb(212, 207, 207);
+    
+}
+#sec-outer{
+    background-color: white;
+    /* margin: auto; */
+    width: 75rem;
+    height: 37rem;
+    border: 1px solid white;
+    box-sizing: border-box;
+    /* margin: 100px 250px 100px; */
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 5px;
+}
+#sec-internal{
+    margin: auto;
+    padding: 80px 150px 80px;
+    
+}
+.colm-1{
+    background-color:  hsl(31, 77%, 52%);
+    height: 450px;
+}
+.colm-2{
+    background-color:hsl(184, 100%, 22%);;
+    height: 450px;
+    
+}
+.colm-3{
+    background-color: hsl(179, 100%, 13%);
+    height: 450px;
+    
+}
+.aa{
+    margin: 25px;
+}
+.bb{
+    margin-left: 25px;
+    margin-bottom: 25px;
+    color: azure;
+    font-family: Lexend Deca;
+    font-weight: 400;
+}
+.cc{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 25px;
+    font-size: 15px;
+    font-family: Lexend Deca;
+    font-weight: 400;
+
+}
+.form-group{
+    margin-top: 100px;
+    margin-left: 25px;
+    width: 40%;
+}
+.d1:hover{
+    background-color:  hsl(31, 77%, 52%);
+    border: 3px solid white;
+    border-radius: 30px;
+}
+.d2:hover{
+    background-color:hsl(184, 100%, 22%);
+    border: 3px solid white;
+    border-radius: 30px;
+}
+.d3:hover{
+    background-color: hsl(179, 100%, 13%);
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+
+
+
+
